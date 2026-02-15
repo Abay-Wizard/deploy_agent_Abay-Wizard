@@ -19,8 +19,16 @@ The script creates the directory structure, generates necessary files, configure
 ---
 
 ## How to Run
+1) Make the script executable (first time only)
+   > chmod u+x setup_project.sh
+2) Run the script
+   > ./setup_project.sh
+3) Enter project identifier when prompted (e.g., v1).
+   > This creates the parent directory: attendance_tracker_<identifier>/.
+4) Set attendance thresholds:
+   > Enter y to customize warning/failure percentages
+   > Enter n to use default thresholds (Warning = 75%, Failure = 50%)
 
-1. Make the script executable (first time only):
 
-```bash
-chmod +x setup_project.sh
+
+
