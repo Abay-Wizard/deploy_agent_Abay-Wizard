@@ -26,8 +26,8 @@ The script creates the directory structure, generates necessary files, configure
 3) Enter project identifier when prompted (e.g., v1).
    > This creates the parent directory: attendance_tracker_<identifier>/.
 4) Set attendance thresholds:
-   . Enter y to customize warning/failure percentages
-   . Enter n to use default thresholds (Warning = 75%, Failure = 50%)
+   * Enter y to customize warning/failure percentages
+   * Enter n to use default thresholds (Warning = 75%, Failure = 50%)
 
 
 
