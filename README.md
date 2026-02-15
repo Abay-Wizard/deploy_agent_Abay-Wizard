@@ -29,6 +29,12 @@ The script creates the directory structure, generates necessary files, configure
    * Enter y to customize warning/failure percentages
    * Enter n to use default thresholds (Warning = 75%, Failure = 50%)
 
+## How to Trigger the Archive Feature
 
+While the script is running, press **Ctrl + C**.  
+
+This will:
+- Archive the current state of the project directory as `attendance_tracker_<identifier>_archive.tar.gz`
+- Remove the incomplete directory to keep the workspace clean
 
 
