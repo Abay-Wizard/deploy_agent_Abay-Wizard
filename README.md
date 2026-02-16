@@ -6,6 +6,7 @@ This project demonstrates **Infrastructure as Code (IaC)** by automating the set
 The script creates the directory structure, generates necessary files, configures attendance thresholds, and handles interruptions safely.
 
 ---
+## Link to the video: https://drive.google.com/file/d/1jnXICticCOU7GmaBKTxdQVvi7-89fl5N/view?usp=sharing
 
 ## Repo Contents
 
